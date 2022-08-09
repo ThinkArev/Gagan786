@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Golan.eth
-- 👀 I’m interested in dynamic web applications and calling APis without loading page.
-- 🌱 I’m currently learning Sfcc with more depth knowledge and java for android applications.
+- 👀 I’m interested in dynamic web applications and calling APis
+- 🌱 I’m currently learning Salesforce Commerce cloud tool to build ecommerce pages.also learning java for android applications.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me..
 
